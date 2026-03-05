@@ -1,6 +1,7 @@
 # Capgemini_Training
 
-**Advance_Java_Assigments** : 
+**Advance_Java_Assigments :** 
 https://github.com/cse-kumar-milind/Java-Advance-Assignment
-**Advance_Java_Assessments** : 
+</br>
+**Advance_Java_Assessments :** 
 https://github.com/cse-kumar-milind/Java-Advance-Assessment
